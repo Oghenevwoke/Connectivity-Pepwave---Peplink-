@@ -70,6 +70,8 @@ After resolving the issue, I checked in with L2 Remote Support to confirm the su
 
 
 The installation of the new Pepwave device successfully resolved the issue, and the location's network is now functioning as expected.
+
+https://github.com/Oghenevwoke/Connectivity-Pepwave---Peplink-/blob/main/1b773f736deb5f0246094ec071950b28.jpg?raw=true
 <br />
 <br />
 Confirm your selection:  <br/>
