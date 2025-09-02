@@ -71,7 +71,7 @@ After resolving the issue, I checked in with L2 Remote Support to confirm the su
 
 The installation of the new Pepwave device successfully resolved the issue, and the location's network is now functioning as expected.
 
-![Image](https://github.com/user-attachments/assets/be6b5ba8-631a-4031-bbea-db527a3c8b8a) 
+<img src=" https://github.com/user-attachments/assets/be6b5ba8-631a-4031-bbea-db527a3c8b8a" width 75%" height 80%" >
 ![Image](https://github.com/user-attachments/assets/395aa3ff-e3ff-4917-bbc6-29081e82fee5)
 ![Image](https://github.com/user-attachments/assets/8a33f313-b788-4411-80a9-e1601fd275fc)
 ![Image](https://github.com/user-attachments/assets/00b24193-d64a-4add-99d7-8e0b9811839b)
